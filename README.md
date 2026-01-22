@@ -15,8 +15,6 @@ about movies, people, genres, ratings, and releases.
 -   Designed to support higher-level features like search, analytics,
     and reporting
 
-All logic lives in one file: `ass1.sql`.
-
 ## What's implemented
 
 ### SQL Views
