@@ -5,6 +5,8 @@ functions** over a relational IMDB-style database. The focus is on
 writing expressive SQL and PL/pgSQL to answer real analytical questions
 about movies, people, genres, ratings, and releases.
 
+Private project - contact me for access
+
 ## Overview
 
 -   Works entirely inside PostgreSQL\
